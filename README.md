@@ -2,6 +2,7 @@
 Lumbung - Dashboard Retail Management System
 Deskripsi Proyek
 Lumbung adalah aplikasi dashboard berbasis Django (backend) dan React.js (frontend) yang dirancang untuk membantu manajemen toko retail. Aplikasi ini dirancang untuk digunakan secara lokal pada server internal, dengan fitur utama yang berfokus pada efisiensi pengelolaan penjualan, inventaris, dan laporan operasional.
+
 Fitur Utama
 1. Manajemen Penjualan
 Melacak data penjualan harian, mingguan, dan bulanan.
@@ -32,3 +33,9 @@ Grafik: Chart.js atau alternatif
 Autentikasi: JSON Web Token (JWT)
 CSS Framework: TailwindCSS atau Bootstrap (dapat disesuaikan)
 Versi Kontrol: GitHub
+Keunggulan Sistem
+Pro:
+Performa Cepat: Optimasi untuk penggunaan lokal dengan server internal.
+Desain Modern: Antarmuka berbasis React.js yang responsif dan interaktif.
+Fleksibel: Mudah diintegrasikan dan dikembangkan lebih lanjut.
+Modular: Struktur aplikasi mendukung penambahan fitur baru.
