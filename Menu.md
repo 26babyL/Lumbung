@@ -1,84 +1,98 @@
-**Final Menu Structure**
-------------------------
+### **Final Menu Structure**
 
-**Lumbung - Dashboard Retail Management System** dirancang dengan struktur menu yang intuitif dan profesional, mengelompokkan fitur utama ke dalam menu utama dan sub-menu untuk mempermudah navigasi pengguna.
+**Primary Group (Core Operations)**\
+Menu utama yang mencakup operasional sehari-hari untuk memastikan pengelolaan toko berjalan dengan lancar.
 
-* * * * *
+1.  **Dashboard**
 
-### **Main Menu**
+    -   **Overview**: Ikhtisar kinerja bisnis (penjualan, inventaris, notifikasi penting).
+    -   **Notifications Center**: Menampilkan semua notifikasi, termasuk peringatan stok rendah dan tugas.
+2.  **Products**
 
-#### 1\. **Dashboard**
+    -   **Product List**: Daftar produk beserta rincian (nama, harga, stok, kategori).
+    -   **Add New Product**: Menambahkan produk baru ke dalam sistem.
+    -   **Product Categories**: Mengelola dan mengorganisasi kategori produk.
+3.  **Inventory Management**
 
--   Menyediakan gambaran umum tentang performa bisnis, seperti statistik penjualan, stok, dan notifikasi penting.
+    -   **Inventory Planner**: Perencanaan stok berdasarkan pola penjualan dan prediksi.
+    -   **Stock Movement**: Melacak barang masuk, keluar, dan transfer antar lokasi.
+4.  **Sales**
 
-#### 2\. **Products & Inventory**
+    -   **Sales Insights**: Analisis tren penjualan dan performa toko.
+    -   **Pricing Strategies**: Menentukan strategi harga atau diskon.
+    -   **Store Comparison**: Membandingkan performa antar cabang/toko (jika ada).
+5.  **Transfer & Logistics**
 
--   Mengelola produk dan stok di sistem dengan fitur untuk perencanaan inventaris, melihat katalog produk, dan melacak pergerakan stok.
-
-#### 3\. **Sales**
-
--   Menyediakan analisis penjualan, strategi harga, dan perbandingan performa antara toko atau cabang.
-
-#### 4\. **Finance**
-
--   Menyajikan data finansial seperti pendapatan, pengeluaran, dan target bisnis.
-
-#### 5\. **Reports & Analytics**
-
--   Menyediakan laporan mendalam dan analitik untuk mendukung pengambilan keputusan bisnis.
-
-#### 6\. **Team & Users**
-
--   Mengelola tim dan pengguna sistem, termasuk peran, akses, serta log aktivitas.
-
-#### 7\. **Help & Settings**
-
--   Berisi panduan pengguna, pusat dukungan, dan pengaturan sistem untuk personalisasi.
+    -   **Request Items**: Mengajukan permintaan barang dari gudang atau toko lain.
+    -   **Shipments Tracking**: Melacak status pengiriman barang.
+    -   **Delivery Status**: Mengecek status detail pengiriman.
 
 * * * * *
 
-### **Sub-Menu**
+**Secondary Group (Analysis & Support)**\
+Menu pendukung untuk analisis data dan optimalisasi keputusan bisnis.
 
-#### **Dashboard**
+1.  **Reports & Analytics**
 
--   **Overview**: Statistik penting seperti total penjualan, ketersediaan stok, dan indikator performa.
+    -   **Reports**: Laporan terperinci tentang penjualan, keuangan, dan stok.
+    -   **Market Trends**: Analisis tren pasar untuk mendukung pengambilan keputusan.
+    -   **Custom Reports**: Membuat laporan khusus sesuai kebutuhan pengguna.
+2.  **Market Research**
 
-#### **Products & Inventory**
+    -   **Competitor Analysis**: Memahami posisi pasar berdasarkan kompetitor.
+    -   **Vendor Management**: Mengelola hubungan dan performa pemasok.
+3.  **Business Dynamics**
 
--   **Product List**: Daftar produk dengan rincian seperti nama, harga, stok, dan kategori.
--   **Inventory Planner**: Perencanaan stok, termasuk reorder points untuk mencegah kekurangan stok.
--   **Stock Movement**: Pelacakan transfer stok antar gudang atau toko.
+    -   **Business Health**: Menilai kesehatan bisnis berdasarkan KPI.
+    -   **Trend Tracker**: Melacak tren performa bisnis secara berkala.
+4.  **System Health Check**
 
-#### **Sales**
-
--   **Sales Insights**: Analisis tren penjualan berdasarkan periode atau kategori produk.
--   **Pricing Strategies**: Pengelolaan diskon, penawaran, dan strategi penetapan harga.
--   **Store Comparison**: Perbandingan performa antar cabang atau toko.
-
-#### **Finance**
-
--   **Financial Overview**: Ringkasan finansial yang mencakup pendapatan, pengeluaran, dan keuntungan.
--   **Business Goals**: Pengaturan dan pelacakan target bisnis, seperti target penjualan.
-
-#### **Reports & Analytics**
-
--   **Reports**: Laporan terperinci untuk penjualan, keuangan, dan inventaris.
--   **Market Trends**: Analitik tren pasar untuk membantu pengambilan keputusan inventaris.
-
-#### **Team & Users**
-
--   **Team Management**: Mengelola pengguna sistem, termasuk pengaturan peran dan akses.
--   **Activity Log**: Melacak aktivitas pengguna di sistem.
-
-#### **Help & Settings**
-
--   **User Guide**: Panduan penggunaan sistem untuk pengguna.
--   **Support Center**: Dukungan teknis dan daftar pertanyaan umum (FAQs).
--   **System Settings**: Pengaturan konfigurasi sistem untuk personalisasi sesuai kebutuhan bisnis.
+    -   **Performance Metrics**: Menampilkan performa aplikasi secara umum.
+    -   **Technical Diagnostics**: Informasi tentang masalah teknis yang perlu diperbaiki.
 
 * * * * *
 
-### **Penggunaan**
+**Management & Engagement Group**\
+Menu yang berfokus pada pengelolaan tim dan keterlibatan pelanggan.
 
-Struktur menu ini dirancang agar sesuai dengan kebutuhan manajemen retail yang kompleks namun tetap mudah digunakan.\
-**Catatan:** Penyesuaian dapat dilakukan berdasarkan feedback pengguna atau perubahan kebutuhan bisnis.
+1.  **Team & Users**
+
+    -   **Team Management**: Mengelola pengguna sistem dan hak akses.
+    -   **Activity Log**: Melacak aktivitas pengguna untuk transparansi.
+    -   **Workforce Planner**: Penjadwalan kerja dan pengalokasian tugas.
+2.  **Employee Training**
+
+    -   **System Tutorials**: Panduan untuk memahami dan menggunakan sistem.
+    -   **Staff Training**: Modul pelatihan untuk meningkatkan produktivitas karyawan.
+3.  **Customer Engagement**
+
+    -   **Feedback Tracker**: Mengumpulkan dan menganalisis umpan balik pelanggan.
+    -   **Loyalty Program**: Mengelola program loyalitas pelanggan untuk meningkatkan retensi.
+
+* * * * *
+
+**Support & Customization Group**\
+Menu untuk bantuan teknis dan pengaturan sistem.
+
+1.  **Help & Settings**
+
+    -   **User Guide**: Panduan penggunaan sistem secara menyeluruh.
+    -   **Support Center**: Akses ke layanan bantuan teknis.
+    -   **System Settings**: Pengaturan sistem untuk personalisasi.
+2.  **Messages & Alerts**
+
+    -   **Incoming Tasks**: Notifikasi tugas yang harus diselesaikan.
+    -   **System Notifications**: Pembaruan sistem dan peringatan teknis.
+3.  **Task Scheduling**
+
+    -   **Task Scheduler**: Penjadwalan tugas harian untuk operasional.
+    -   **Promotion Calendar**: Mengatur jadwal promosi dan diskon toko.
+
+* * * * *
+
+### **Penggunaan dan Catatan**
+
+-   **Primary Group** cocok untuk pengguna yang fokus pada pengelolaan harian.
+-   **Secondary Group** menyediakan alat analitik dan dukungan pengambilan keputusan.
+-   **Management & Engagement Group** membantu dalam pengelolaan tim dan pelanggan, serta meningkatkan efisiensi operasional.
+-   **Support & Customization Group** memastikan pengguna mendapat bantuan dan fleksibilitas pengaturan sistem.
