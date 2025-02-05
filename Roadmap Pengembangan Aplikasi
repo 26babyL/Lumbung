@@ -1,0 +1,39 @@
+**📌 Roadmap Pengembangan Aplikasi (Februari - Maret 2025)**
+------------------------------------------------------------
+
+### **📅 Februari (4 Minggu) → Pengembangan Inti & Fitur Utama**
+
+✅ **Minggu 1-2** (5-16 Februari)
+
+-   Setup proyek Django & React.js
+-   Konfigurasi database PostgreSQL
+-   Implementasi **manajemen stok** (barang masuk/keluar, notifikasi stok rendah)
+-   Implementasi **manajemen penjualan** (input transaksi, laporan dasar)
+-   Autentikasi & role-based access (Admin, Staff)
+
+✅ **Minggu 3-4** (17-29 Februari)
+
+-   UI/UX dasar dengan TailwindCSS
+-   Integrasi grafik statistik performa penjualan (**Chart.js/Recharts**)
+-   Ekspor laporan ke PDF & Excel
+-   Optimasi API (Django REST Framework)
+-   **Unit testing backend**
+-   Review internal
+
+* * * * *
+
+### **📅 Maret (4 Minggu) → Penyempurnaan & Pengujian**
+
+✅ **Minggu 1-2** (1-15 Maret)
+
+-   Debugging & optimalisasi performa
+-   Implementasi fitur tambahan berdasarkan kebutuhan user
+-   Pengujian **closed beta** (tester terbatas, 5-10 user)
+-   Pengumpulan feedback beta tester
+
+✅ **Minggu 3-4** (16-31 Maret)
+
+-   Perbaikan bug dari feedback beta tester
+-   Optimasi terakhir sebelum open beta
+-   Finalisasi dokumentasi pengguna
+-   **Soft Launch / Open Beta sebelum Lebaran** 🎉
